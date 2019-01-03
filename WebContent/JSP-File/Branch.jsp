@@ -11,5 +11,9 @@
 this is  branch - hotfix
 
 new development from hotfix branch - to be merged
+    
+    
+master branch - changed in Github server directyly
+    
 </body>
 </html>
